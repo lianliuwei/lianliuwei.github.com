@@ -60,5 +60,5 @@ some text to 分段
 ---------------------------------------------
 [1]: http://www.google.com "google.com"
 [2]: http://www.baidu.com "baidu.com"
-[3]: /images/logo-google.gif ""
+[3]: /images/Logo-Google.gif ""
 [4]: http://www.baidu.com/img/baidu_sylogo1.gif ""
