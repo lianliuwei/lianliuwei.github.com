@@ -3,7 +3,8 @@ layout: post
 title: "chromium_base2 project introduction"
 date: 2012-08-17 11:02
 comments: true
-categories: chromium_base
+categories: project 
+tags: chromium_base github C++ chromium
 ---
 
 chromium_base2工程简介

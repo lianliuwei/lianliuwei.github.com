@@ -3,7 +3,8 @@ layout: post
 title: "evernote share"
 date: 2012-08-20 14:02
 comments: true
-categories: evernote data
+categories: share
+tags: evernote data share online note
 ---
 Evernote共享笔记
 ==
