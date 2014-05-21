@@ -3,7 +3,7 @@ layout: post
 title: "oscilloscope serie 0"
 description: ""
 category: code
-tags: [chromium_base, Google, C++]
+tags: [Oscilloscope, C++]
 ---
 {% include JB/setup %}
 
