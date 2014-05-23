@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "oscilloscope serie 0"
+title: "oscilloscope serie -- overview"
 description: ""
 category: code
 tags: [Oscilloscope, C++]
